@@ -1,6 +1,6 @@
 # Passsword Generator
 
-Gerar senhas aleatórios por parâmetros selecionados pelo usuário.
+Gerar senhas aleatórios por parâmetros selecionado pelo usuário.
 
 O usuário pode selecionar o tamanho da senha e precisa selecionar pelo menos um ou combinar mais de um dos seguintes parâmetros: letras maiúsculas, letras minúsculas, números e caracteres especiais.
 
